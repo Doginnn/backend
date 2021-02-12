@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'backend.produto',
     'rest_framework',
+    'rest_framework_swagger',
 ]
 
 MIDDLEWARE = [
