@@ -1,6 +1,6 @@
-# DESAFIO BLB VENTURES
+# DESAFIO EMPRESA X
 
-Sistema como etapa de desafio da empresa BLB Ventures. Mais informações da empresa [AQUI](https://blb.ventures/)
+Sistema como etapa de desafio de uma empresa.
 
 Sistema de E-commerce para `'listar'` todos os produtos disponíveis. No modo `'edição'` é possível `'criar'` e `'apagar'` produtos.
 
